@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Developer | MERN Stack
+Full Stack Developer | MERN Stack | 2 live projects 
 
 
 ## 🌐 Socials:
